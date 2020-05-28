@@ -52,9 +52,9 @@ In 15 epoch i achive 87% of accuracy
 
 ### Results example
 
-[image2]
+![Sample Output][image2]
 
-[image3]
+![Sample Output][image3]
 
 ### Model parameters
 
