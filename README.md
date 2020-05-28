@@ -1,8 +1,8 @@
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
-[image2]: ./images/result_dog.jpg "example of the dog result"
-[image3]: ./images/result_human.jpg  "example of the human result"
+[image2]: ./images/result_dog.JPG "example of the dog result"
+[image3]: ./images/result_human.JPG  "example of the human result"
 
 # Dog breed classification 
 
@@ -52,9 +52,9 @@ In 15 epoch i achive 87% of accuracy
 
 ### Results example
 
-![Sample Output][image2]
+![image2]
 
-![Sample Output][image3]
+![image3]
 
 ### Model parameters
 
