@@ -1,8 +1,8 @@
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
-[image2]: ./images/vgg16_model.png "VGG-16 Model Layers"
-[image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
+[image2]: ./images/result_dog.jpg "example of the dog result"
+[image3]: ./images/result_human.jpg  "example of the human result"
 
 # Dog breed classification 
 
@@ -44,8 +44,20 @@ Net(
 
 In 25 epoch i achive 11% of accuracy
 
-### TRansfer learning
+### Transfer learning
 
 I used a ResNet101 for transfer learning.
 
 In 15 epoch i achive 87% of accuracy
+
+### Results example
+
+[image2]
+
+[image3]
+
+### Model parameters
+
+In case someone need a my trained model, they can be found in my G-drive by following link:
+https://drive.google.com/open?id=1VD0OoTBSjx04S5GysEKncrmHKGJOs9es
+
